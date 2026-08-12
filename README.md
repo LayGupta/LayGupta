@@ -7,12 +7,12 @@ I build multi-agent systems and RAG pipelines with LangGraph, and ship them on c
 
 <p align="center">
   <a href="mailto:layguptamka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/laygupta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/LayGupta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=LayGupta&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
 
 ---
@@ -74,26 +74,23 @@ I build multi-agent systems and RAG pipelines with LangGraph, and ship them on c
 
 ### 🚀 Featured Projects
 
-**[FMCG — AI-Powered RFP Bid Intelligence Platform](https://github.com/YOUR-GITHUB-USERNAME/fmcg-rfp-platform)**
+**[FMCG — AI-Powered RFP Bid Intelligence Platform](https://github.com/LayGupta/RFP-propoasal-automation)**
 8-node LangGraph multi-agent workflow automating RFP processing end-to-end — requirement extraction, compliance validation, pricing, proposal generation, and human-in-the-loop approval — backed by a FastAPI + PostgreSQL backend with FAISS-based RAG search.
 `LangGraph` `FastAPI` `PostgreSQL` `FAISS` `JWT`
 
-**[LAMDA Analytics — AI-Driven Supply Chain Risk Intelligence](https://github.com/YOUR-GITHUB-USERNAME/lamda-analytics)**
+**[LAMDA Analytics — AI-Driven Supply Chain Risk Intelligence](https://github.com/LayGupta/Lambda)**
 FastAPI backend orchestrating 7 asynchronous agents that aggregate real-time news, weather, trade, and geopolitical data, feeding a Temporal Graph Network model that forecasts disruptions up to 72 hours ahead across 145+ supply chain nodes.
 `FastAPI` `TGN` `Next.js` `Async Agents`
 
-**[Alerion AI — Distributed Edge-Fog Predictive Maintenance Platform](https://github.com/YOUR-GITHUB-USERNAME/alerion-ai)**
+**[Alerion AI — Distributed Edge-Fog Predictive Maintenance Platform](https://github.com/LayGupta/Alerion)**
 Distributed IoT pipeline streaming telemetry from 5 edge nodes through Apache Kafka for real-time anomaly detection, with Dockerized FastAPI inference services and a React dashboard for live machine health monitoring.
 `Kafka` `Docker` `FastAPI` `WebSockets` `React`
 
 ---
 
-### 📊 GitHub Stats
+### ⚽ Beyond Code
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+Football taught me to trust the pass before I see the gap. Swimming taught me to keep pace when no one's watching. Both built the same habit — show up, do the honest rep, let the result speak.
 
 ---
 

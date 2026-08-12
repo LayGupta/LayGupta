@@ -11,10 +11,6 @@ I build multi-agent systems and RAG pipelines with LangGraph, and ship them on c
   <a href="https://github.com/LayGupta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LayGupta&style=for-the-badge&color=blueviolet" alt="Profile views" />
-</p>
-
 ---
 
 ### 🔭 Currently
